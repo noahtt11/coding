@@ -9,7 +9,7 @@ let num1;
 let num2;
 let correctAnswer;
 
-// Functions
+
 function generateQuestion() {
     num1 = Math.floor(Math.random() * 10) + 1;
     num2 = Math.floor(Math.random() * 10) + 1;
